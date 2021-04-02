@@ -1,0 +1,31 @@
+body 
+{
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+color: white;
+font-size: 20px;
+width: 700px;
+border-radius: 50px;
+font-weight: bolder;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
+#statuso
+{
+font-size: 12px;
+}
